@@ -1,2 +1,1 @@
-# weird-test
-symlink shenanigans
+original-readme.md
